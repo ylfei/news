@@ -1,9 +1,6 @@
 ### Welcome to GitHub Pages
 
-
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -25,4 +22,4 @@ Syntax highlighted code block
 
 ### 页面
 
-Site address: https://ylfei.github.io/news/
+Site address: https://ylfei.github.io/news/index.html
