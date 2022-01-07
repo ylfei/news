@@ -1,0 +1,94 @@
+body, html {
+    font-family: microsoft yahei, sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    margin: 20px;
+}
+
+#header{
+    height: 5%;
+    position: relative;
+    text-decoration: none;
+
+}
+
+a:link { color: #06F; text-decoration: none; }/*链接未点击时*/
+a:visited { color: #06F; text-decoration: line-through; }/*链接已经点击过*/
+a:hover { color: #F00; text-decoration: underline; }/*鼠标放在链接上未点击*/
+a:active { color: #3366cc; }/*链接被按下时候的状态*/
+
+
+
+ul#nav{
+    margin: 0 auto;/*外边距*/
+    text-align: center;
+    overflow: hidden;
+}
+
+ul#nav li{
+    float: left;
+    padding-left: 11%;
+}
+
+ul#nav li a{
+    display: block;
+    text-decoration: none;
+    height: 65px;
+    padding-top: 25%;
+    margin: 0 13px ;
+    color: #222222;
+}
+
+ul li {
+    font-size: 20px;
+    position: relative;
+    right: 10px;
+    width: 9%;
+    word-wrap: break-word;
+    list-style: none;
+    text-decoration: none;
+}
+
+hr{
+    width: 90%;
+}
+
+
+section{
+    position: relative;/*相对定位*/
+    left: 2%;
+    word-wrap: break-word;/*自动换行*/
+    width: 71%;
+    clear: both;
+
+}
+
+.it{
+    position: inherit;/*对于父级定位*/
+    width: 70%;
+    float: left;
+    margin: 8% 0 0 3%;
+}
+
+p{
+    text-indent: 2em;
+    word-wrap: break-word;
+}
+
+.date{
+    position: inherit;
+    float: right;
+    margin: 5% -28% 0 0;
+
+}
+
+#footer{
+    clear:both;
+
+    text-align:center;
+    padding: 20px;
+    margin: auto;
+
+
+}
+
