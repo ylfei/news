@@ -22,4 +22,4 @@ Syntax highlighted code block
 
 ### 页面
 
-Site address: https://ylfei.github.io/news/index.html
+Site address: https://ylfei.github.io
